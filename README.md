@@ -1,4 +1,4 @@
-Project URL:http://127.0.0.1:5500/index.html
+Live Site URL:  https://manny-gm.github.io/NFT-CARD-PROJECT/
 
 # Frontend Mentor - NFT preview card component solution
 
@@ -19,7 +19,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: http://127.0.0.1:5500/NFT%20CARD%20PROJECT/index.html
+- Solution URL:  https://manny-gm.github.io/NFT-CARD-PROJECT/
 
 ### Built with
 
