@@ -1,4 +1,4 @@
-Project URL:http://127.0.0.1:5500/NFT%20CARD%20PROJECT/index.html
+Project URL:http://127.0.0.1:5500/index.html
 
 # Frontend Mentor - NFT preview card component solution
 
